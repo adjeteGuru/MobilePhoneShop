@@ -21,7 +21,7 @@ namespace MobilePhoneShopApp
 
         private int mobilePhoneCurrentlyDisplayed = 0;
 
-       //add new comment
+       //add new comment added
         public Shop()
         {
             listMobilePhoneStock = new List<MobilePhone>();
